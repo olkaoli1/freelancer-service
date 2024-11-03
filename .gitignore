@@ -1,3 +1,8 @@
+# Игнорирование папок и файлов
+.idea/
+target/
+*.iml
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
